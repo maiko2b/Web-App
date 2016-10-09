@@ -1,0 +1,58 @@
+
+  #section3 {padding-top:50px;height:600px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:300px;color: #fff; background-color: #ECF0F1;}
+
+body {
+    background-image: url(../picture/fruits.jpg);
+    background-color: #cccccc;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+ background-size: 100% 100%;
+}
+p {
+    text-indent: 50px;
+    color: #000000;
+
+}
+h2 {
+
+
+    color: Red;
+}
+h3 {
+	
+	
+	color: #000000;
+	
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+div {
+    font-family: myFirstFont;
+}
+.footer {
+    position:absolute;
+    bottom:0px;
+    width: 500%;
+    margin: 0;
+    background-color: #222222;
+    height: 50px;/* or however high you would like */
+}
+a {
+	color: #000000;
+}
+th {
+	color:  #000000;
+}
+td {
+	color: #000000;
+}
+label {
+	color: #000000;
+}
+
+
